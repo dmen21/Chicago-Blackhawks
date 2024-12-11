@@ -1,0 +1,70 @@
+Joey Anderson
+R 55 5 12 5
+Andreas Athanasiou
+C 28 2 7 -7
+Anthony Beauvillier
+L 23 2 4 -10
+Connor Bedard
+C 68 22 39 -44
+Colin Blackwell
+C 44 8 4 -2
+Louis Crevier
+D 24 0 3 -16
+Jason Dickinson
+C 82 22 13  4
+Ethan Del Mastro
+D 2 0 0 0
+Ryan Donato
+C 78 12 18 -14
+MacKenzie Entwistle
+R 67 5 6 -29
+Nick Foligno
+L 74 17 20 -29
+Cole Guttman
+C 27 4 4 -17
+Taylor Hall
+L 10 2 2 -3
+Reese Johnson
+C 42 2 3 -20
+Tyler Johnson
+C 67 17 14 -35
+Seth Jones
+D 67 8 23 -15
+Wyatt Kaiser
+D 32 0 7 0
+Boris Katchouk
+L 38 5 4 -2
+Kevin Korchinski
+D 76 5 10 -39
+Philipp Kurashev
+C 75 18 36 -44
+Jaycob Megna
+D 44 0 2 -15
+Connor Murphy
+D 46 2 6 -19
+Frank Nazar
+C 3 1 0 -4
+Corey Perry
+R 16 4 5 -5
+Isaak Phillips
+D 33 0 6 -26
+Rem Pitlick
+C 9 0 0 -7
+Taylor Raddysh
+R 73 5 9 -19
+Lukas Reichel
+L 65 5 11 -29
+Filip Roos
+D 4 0 0 -4
+Zachary Sanford
+L 18 0 4 -3
+Brett Seney
+L 4 0 0 0
+Landon Slaggert
+L 16 1 3 1
+Jarred Tinordi
+D 52 0 9 -27
+Alex Vlasic
+D 76 2 14 -4
+Nikita Zaitsev
+D 38 2 5 -5
